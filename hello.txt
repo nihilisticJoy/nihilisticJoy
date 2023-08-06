@@ -1,3 +1,6 @@
 Hello Git
 Hello Linus
 Hello hot fix111
+amend
+amend
+amend
