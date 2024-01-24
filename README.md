@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihilisticJoy
-- 👀 I’m a student for my master`s degree in the university of Helsinki
+- 👀 I’m a student for my master's degree in the university of Helsinki
 - 🌱 I’m currently learning machine learning
 
 <!---
